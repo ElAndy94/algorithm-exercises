@@ -1,4 +1,4 @@
-function maxChar(str) {
+maxChar = (str) => {
     const chars = {};
     let max = 0;
     let maxChar = '';
